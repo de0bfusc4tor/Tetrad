@@ -25,7 +25,15 @@
 
 ---
 
-## 𝐓𝐡𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐬
+## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
+
+- **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
+- **Architecture**: Intel & Apple Silicon.
+- **DAW**: Ableton Live 12+
+
+---
+
+## 𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞𝐫𝐬
 
 **Tetrad** provides three distinct environments for melodic and rhythmic exploration:
 
