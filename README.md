@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img width="645" height="466" alt="Tetradpreview" src="https://github.com/user-attachments/assets/99fcb36c-119c-46d2-a6bb-80bc98e754de" /></p>
+<p align="center"><img width="647" height="449" alt="Tetradpreview" src="https://github.com/user-attachments/assets/bb65b47b-73bc-4d7c-b6fb-361e0a8579d4" /></p>
 
 ---
 
