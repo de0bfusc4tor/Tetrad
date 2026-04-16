@@ -65,6 +65,7 @@ An evolving engine for generative rhythmic sequences.
 _This Max4Live plugin is free. Don't forget to give it a ⭐ on Github if you liked the project._
 
 ---
-
+<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/afc2512e-eb91-4c5f-af3c-687e185cee48" />
+</p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
